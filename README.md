@@ -66,6 +66,7 @@ const rahul = {
 
 ### 🏆 Achievements
 
+- 🥇 **3st Place** – National level Hackathon (Argument AI) (2025)  
 - 🥇 **1st Place** – ISTE App Dev Contest (2025)  
 - 💡 100+ days of *daily tech content* on Instagram  
 - 🤖 Built a real-time ML project with **Jetson Nano**  
