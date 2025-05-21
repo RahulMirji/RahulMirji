@@ -32,13 +32,14 @@ const rahul = {
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulmirji&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmirji&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulmirji&show_icons=true&theme=radical" alt="Rahul's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmirji&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmirji&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulmirji&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
+
 
 
 ---
