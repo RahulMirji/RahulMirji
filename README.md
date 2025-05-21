@@ -8,9 +8,13 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://twitter.com/mirjirahul" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/rahulmirji" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
