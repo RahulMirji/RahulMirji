@@ -1,7 +1,8 @@
 <h1 align="center">🚀 Rahul Mirji – Full Stack Dev | ML Explorer | Tech Creator</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=BBuilding+cool+apps+with+MERN+%F0%9F%92%BB;CCreating+ML+solutions+that+matter+%F0%9F%A7%A0;100%2B+Days+of+Tech+Content+%F0%9F%93%B1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=BBuilding+cool+apps+with+MERN+%F0%9F%92%BB; 
+    CCreating+ML+solutions+that+matter+%F0%9F%A7%A0;100%2B+Days+of+Tech+Content+%F0%9F%93%B1" />
 </p>
 <p align="center">
   <a href="https://www.instagram.com/rahul__mirji/" target="_blank">
