@@ -13,8 +13,8 @@ const rahul = {
   name: "Rahul Mirji",
   role: ["Full-Stack Developer", "ML Enthusiast", "Tech Content Creator"],
   tools: ["MERN", "Python", "Jetson Nano", "GCP"],
-  currentFocus: "Building QuikAid App 🚑",
-  learning: ["Machine Learning", "DSA in Java", "MERN Stack"],
+  currentFocus: " Building QuikAid App 🚑",
+  learning: [" Machine Learning", "DSA in Java", "MERN Stack"],
   funFact: "I've been posting DAILY tech reels on Instagram for 100+ days 📱🔥"
 }
 ```
@@ -35,9 +35,11 @@ const rahul = {
   <img src="https://github-readme-stats.vercel.app/api?username=rahulmirji&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmirji&layout=compact&theme=radical" height="180"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmirji&theme=radical" height="180"/>
 </p>
+
 
 ---
 
