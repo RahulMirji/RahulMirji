@@ -3,6 +3,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=BBuilding+cool+apps+with+MERN+%F0%9F%92%BB;CCreating+ML+solutions+that+matter+%F0%9F%A7%A0;100%2B+Days+of+Tech+Content+%F0%9F%93%B1" />
 </p>
+<p align="center">
+  <a href="https://www.instagram.com/rahul__mirji/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/mirjirahul" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ---
 
