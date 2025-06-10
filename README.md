@@ -27,7 +27,7 @@ const rahul = {
   tools: ["MERN", "Python", "Jetson Nano", "GCP"],
   currentFocus: " Building QuikAid App 🚑",
   learning: [" Machine Learning", "DSA in Java", "MERN Stack"],
-  funFact: "I've been posting DAILY tech reels on Instagram for 100+ days 🔥"
+  funFact: "I've been posting DAILY Tech reels on Instagram for 100+ days 🔥"
 }
 ```
 
