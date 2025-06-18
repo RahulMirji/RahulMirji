@@ -49,7 +49,7 @@ const rahul = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulmirji&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=rahulmirji&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
 
