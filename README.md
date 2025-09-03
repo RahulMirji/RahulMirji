@@ -20,7 +20,6 @@
 
 ### 🔥 Meet `rahul.js`
 
-```js
 const rahul = {
   name: "Rahul Mirji",
   role: ["Full-Stack Developer", "ML Enthusiast", "Tech Content Creator"],
@@ -29,7 +28,6 @@ const rahul = {
   learning: [" Machine Learning", "DSA in Java", "MERN Stack"],
   funFact: "I've been posting DAILY Tech reels on Instagram for 100+ days 🔥"
 }
-```
 
 ---
 
