@@ -13,6 +13,11 @@
   <a href="https://www.kaggle.com/rahulmirji" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+  <a href="https://v0-rahul-mirji-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  
 </p>
 
 
