@@ -79,8 +79,6 @@ const rahul = {
 | 📱 StyleGPT | [Google Play Store](https://play.google.com/store) | React Native, Supabase, Gemini |
 | 🌐 TryOnNow Extension | [Chrome Web Store](https://chrome.google.com/webstore) | Gemini 2.5 Flash, Supabase Edge Functions |
 | 🔒 IP Signals | [ipsignals.ai](https://ipsignals.ai) | Google ADK, GCP Cloud Run, Docker |
-| 🎓 SecureExam | AI Proctoring Platform | Real-time CV, LLMs |
-| 🖥 Shana 2.0 | Desktop AI Assistant | Tauri |
 
 ---
 
