@@ -170,7 +170,7 @@ concurrency:
 
 ---
 
-## ✨ Let's Build Together
+## ✨ Let's Build Together ❤️
 
 💬 Open to AI product collaborations, agentic system design & hackathons
 📩 Email: [devprahulmirji@gmail.com](mailto:devprahulmirji@gmail.com)
