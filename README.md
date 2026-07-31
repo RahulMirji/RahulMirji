@@ -14,7 +14,7 @@
   <a href="https://rahulmirji.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/rahul-mirji-7764551ba" target="_blank">
+  <a href="https://www.instagram.com/rahul_mirji.ai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:devprahulmirji@gmail.com">
